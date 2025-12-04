@@ -18,6 +18,6 @@ public class BasicJavaActivity4 {
 
         sc.close();
 
-    } // end of main method
+    } // end of main method ayaw ko nito
 
 } // end of BasicJavaActivity4 class
